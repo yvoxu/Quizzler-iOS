@@ -1,7 +1,6 @@
 //
 //  AppDelegate.swift
 //  Quizzler
-//  Copyright (c) 2020 London App Brewery. All rights reserved.
 //
 
 import UIKit
